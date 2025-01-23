@@ -1,7 +1,6 @@
 # Exemplo de página portfólio 3  
 
-Página =>  
-[![Portfolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://th3uss.github.io/Portifolio3/)  
+Página => [![Portfolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://th3uss.github.io/Portifolio3/)  
 
 ### Um exemplo de página de portfólio criada com HTML e CSS!  
 
