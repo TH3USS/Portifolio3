@@ -1,18 +1,19 @@
-# Exemplo de página portfólio 3  
+# Portfolio Page Example 3
 
-Página => [![Portfolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://th3uss.github.io/Portifolio3/)  
+Page => [![Portfolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://th3uss.github.io/Portifolio3/)
 
-### Um exemplo de página de portfólio criada com HTML e CSS!  
+### An example of a portfolio page created with HTML and CSS!
 
-Este é um exemplo de uma página de portfólio pessoal utilizando apenas **HTML** e **CSS**.  
+This is an example of a personal portfolio page built using only **HTML** and **CSS**.
 
 <hr>  
 
-## Sobre o Projeto  
-Oi, eu sou o Matheus 👋<br>  
-Esse é um projeto feito com o intuito de colocar em prática conceitos aprendidos de **HTML** e **CSS**.  
-O objetivo deste projeto é mostrar como é possível criar um portfólio simples, elegante e funcional com essas duas tecnologias fundamentais do desenvolvimento web.  
+## About the Project
+
+Hi, I'm Matheus 👋<br>
+This project was created with the goal of putting into practice concepts learned in **HTML** and **CSS**.
+The aim of this project is to demonstrate how it's possible to build a simple, elegant, and functional portfolio using these two fundamental web development technologies.
 
 <br>  
 
-> Este projeto foi desenvolvido como parte do meu aprendizado e é um exemplo básico para quem deseja começar a criar páginas de portfólio.  
+> This project was developed as part of my learning journey and serves as a basic example for anyone looking to start building portfolio pages.
